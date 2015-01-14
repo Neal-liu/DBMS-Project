@@ -1,0 +1,16 @@
+.ui.table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ui.icon.input{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.ui.segment{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto; 
+}
