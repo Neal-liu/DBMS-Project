@@ -1,0 +1,62 @@
+[
+    {
+      "doc_Ssn": 60811,
+      "name": "Marilyn J. Carney",
+      "exp_years": 10,
+      "speciality": "Allergy and Immunology"
+    },
+    {
+      "doc_Ssn": 60812,
+      "name": "Innocent Sidorov",
+      "exp_years": 11,
+      "speciality": "Adolescent Medicine"
+    },
+    {
+      "doc_Ssn": 60813,
+      "name": "Evdokim Blokhin",
+      "exp_years": 12,
+      "speciality": "Anesthesiology"
+    },
+    {
+      "doc_Ssn": 60814,
+      "name": "Timothy Korovin",
+      "exp_years": 13,
+      "speciality": "Pathology"
+    },
+    {
+      "doc_Ssn": 60815,
+      "name": "Martin Gour",
+      "exp_years": 14,
+      "speciality": "Cardiology"
+    },
+    {
+      "doc_Ssn": 60816,
+      "name": "Julien Paiement",
+      "exp_years": 15,
+      "speciality": "Dermato-Venereology"
+    },
+    {
+      "doc_Ssn": 60817,
+      "name": "Angelette Robitaille",
+      "exp_years": 16,
+      "speciality": "Paediatric cardiology"
+    },
+    {
+      "doc_Ssn": 60818,
+      "name": "Burkett Déziel",
+      "exp_years": 17,
+      "speciality": "Cardiothoracic surgery"
+    },
+    {
+      "doc_Ssn": 60819,
+      "name": "Noël Boutot",
+      "exp_years": 18,
+      "speciality": "Child and adolescent psychiatry and psychotherapy"
+    },
+    {
+      "doc_Ssn": 60820,
+      "name": "Sacripant Lajeunesse",
+      "exp_years": 19,
+      "speciality": "Clinical neurophysiology"
+    }
+  ]

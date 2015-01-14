@@ -1,0 +1,52 @@
+[
+    {
+      "name" : "Kids Mart",
+      "address" : "Braconash Road, Leyland, Lancashire PR25, UK",
+      "phone#" : "206-652-1433"
+    },
+    {
+      "name": "The Polka Dot Bear Tavern",
+      "address": "90 Stutton Road, Tadcaster, North Yorkshire LS24 9HJ, UK",
+      "phone#": "731-303-7673"
+    },
+    {
+      "name": "Quality Realty Service",
+      "address": "5 Eardisley Road, Kington, Herefordshire HR5 3EA, UK",
+      "phone#": "707-682-0112"
+    },
+    {
+      "name": "Country Club Markets",
+      "address": "14 Little Lever Street, Manchester, Manchester, Lancashire M1 1HR, UK",
+      "phone#": "435-919-1021"
+    },
+    {
+      "name": "American Appliance",
+      "address": "76A Empire Road, Perivale, Greenford, Greater London UB6 7EG, UK",
+      "phone#": "970-388-9082"
+    },
+    {
+      "name": "Gold Medal",
+      "address": "Slate Pit Lane, Leicester, Leicestershire LE6 0GN, UK",
+      "phone#": "734-382-8615"
+    },
+    {
+      "name": "AM/PM Camp",
+      "address": "10 Vulcan Way, Sandhurst, Sandhurst, Bracknell Forest GU47 9DB, UK",
+      "phone#": "541-975-2570"
+    },
+    {
+      "name": "Tower Records",
+      "address": "Ffordd Y Felin, Cemaes Bay, Isle of Anglesey LL67 0LA, UK",
+      "phone#": "608-261-2727"
+    },
+    {
+      "name": "The Record Shops at TSS",
+      "address": "Unnamed Road, Garve, Highland IV23 2QH, UK",
+      "phone#": "803-798-4421"
+    },
+    {
+      "name": "Gamma Realty",
+      "address": "10 Cranbrook Road, Wimbledon, London SW19 4HD, UK",
+      "phone#": "850-312-1919"
+    }
+  ]

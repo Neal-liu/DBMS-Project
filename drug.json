@@ -1,0 +1,72 @@
+[
+    {
+      "ssn" : 1 ,
+      "trade_name": "Scatitor",
+      "Pharmacy_name" : "Kids Mart",
+      "Pharm_co_name": "Jackhammer Technologies",
+      "side_effects": "hostility, split ends, and flared nostrils."
+    },
+    {
+      "ssn" : 2 ,
+      "trade_name": "Grizzadrine",
+      "Pharmacy_name" : "The Polka Dot Bear Tavern",
+      "Pharm_co_name": "Jackhammer Technologies",
+      "side_effects": "pointless storytelling, memory loss, memory loss, and justified paranoia."
+    },
+    {
+      "ssn" : 4 ,
+      "trade_name": "Blovoxx",
+      "Pharmacy_name" : "Kids Mart",
+      "Pharm_co_name": "Boxwelpopy",
+      "side_effects": "neutering, clammy hands, and rickets."
+    },
+    {
+      "ssn" : 5 ,
+      "trade_name": "Skidutrin",
+      "Pharmacy_name" : "Quality Realty Service",
+      "Pharm_co_name": "Dumscatopy",
+      "side_effects": "rashes, chills, and nasal cramping."
+    },
+    {
+      "ssn" : 3 ,
+      "trade_name": "Krilnox",
+      "Pharmacy_name" : "American Appliance",
+      "Pharm_co_name": "Snufflepoopasia",
+      "side_effects": "general death, memory loss, memory loss, and loss of attraction."
+    },
+    {
+      "ssn" : 2 ,
+      "trade_name": "Shitar",
+      "Pharmacy_name" : "Gamma Realty",
+      "Pharm_co_name": "Nihswilloxia",
+      "side_effects": "dry eyes, elaborate hair growth, and white curd-like patches in the mouth."
+    },
+    {
+      "ssn" : 1 ,
+      "trade_name": "Branenza",
+      "Pharmacy_name" : "Gamma Realty",
+      "Pharm_co_name": "Billobflemoma Deficiency",
+      "side_effects": "rigid sphincter, sticky skin, and confusion."
+    },
+    {
+      "ssn" : 7 ,
+      "trade_name": "Skizolam",
+      "Pharmacy_name" : "American Appliance",
+      "Pharm_co_name": "Snufflespazostasis",
+      "side_effects": "neutering, chills, and dry socket."
+    },
+    {
+      "ssn" : 8 ,
+      "trade_name": "Phenzell",
+      "Pharmacy_name" : "Gold Medal",
+      "Pharm_co_name": "Dipphunkosa",
+      "side_effects": "exaggeration, chills, and stunted growth."
+    },
+    {
+      "ssn" : 6 ,
+      "trade_name": "Farture",
+      "Pharmacy_name" : "American Appliance",
+      "Pharm_co_name": "Welptuberaxia",
+      "side_effects": "dislodged joints, dandruff, and jerking."
+    }
+  ]
